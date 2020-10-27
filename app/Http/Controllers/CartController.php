@@ -32,6 +32,7 @@ class CartController extends Controller
       array_push($prods, $prod);
     }
     return response()->json($prods);
+    //hjkhjhg
 
 
 
